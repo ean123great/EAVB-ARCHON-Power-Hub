@@ -1,4 +1,4 @@
-# ⚡ EAVB ARCHON 15W Power Hub
+# EAVB ARCHON 15W Power Hub
 **High-Efficiency DC-DC Step-Down Architecture with PMOS Protection**
 
 Designed by **Elcyn Andrew V. Booc** | EAVB Electronics
@@ -9,7 +9,7 @@ The **ARCHON Power Hub** is a compact, industrial-grade power management module 
 
 ---
 
-### 🛡️ Key Architectural Features
+### Key Architectural Features
 * **Zero-Drop Reverse Polarity Protection:** Utilizes an AO4407A P-Channel MOSFET instead of a standard Schottky diode, eliminating thermal dissipation and voltage drop at the input stage.
 * **The "Ocean Ground Strategy":** A highly optimized SMD PCB layout utilizing extensive ground pours and thermal via stitching to turn the entire FR4 board into a passive heatsink.
 * **High-Frequency Regulation:** Driven by the MP1584EN switching regulator operating at 1.5 MHz, allowing for extreme component density and rapid transient response.
@@ -17,7 +17,7 @@ The **ARCHON Power Hub** is a compact, industrial-grade power management module 
 
 ---
 
-### 📊 Absolute Maximum Ratings & Specifications
+### Absolute Maximum Ratings & Specifications
 
 | Parameter | Specification | Notes |
 | :--- | :--- | :--- |
@@ -30,15 +30,15 @@ The **ARCHON Power Hub** is a compact, industrial-grade power management module 
 
 ---
 
-### 📂 Repository Structure
+### Repository Structure
 * `/Hardware` - KiCad schematic (`.kicad_sch`), PCB layout (`.kicad_pcb`), and manufacturing Gerber files.
 * `/Docs` - Official EAVB technical specifications, absolute maximum ratings, and theory of operation (PDF).
 
 ---
 
-### ⚖️ Intellectual Property & Commercial Licensing
+### Intellectual Property & Commercial Licensing
 This hardware design is protected under the **CC BY-NC-SA 4.0** license. 
 * **Non-Commercial Use:** Students, hobbyists, and researchers are free to study, build, and modify this architecture for personal or academic use, provided credit is given to **EAVB Electronics**.
 * **Commercial Use:** Manufacturing this board for sale or integrating this architecture into a commercial product is strictly prohibited under this license.
 
-> **💼 For Commercial Manufacturing Rights:** > Please contact the Lead Architect at **eavb.electronics@gmail.com** for corporate licensing agreements.
+> **For Commercial Manufacturing Rights:** > Please contact the Lead Architect at **eavb.electronics@gmail.com** for corporate licensing agreements.
