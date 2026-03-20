@@ -3,6 +3,8 @@
 
 Designed by **Elcyn Andrew V. Booc** | EAVB Electronics
 
+<img width="355" height="275" alt="image" src="https://github.com/user-attachments/assets/cc9ce5b8-fbc7-4455-bc1e-d9b516aed66f" />
+
 The **ARCHON Power Hub** is a compact, industrial-grade power management module designed for autonomous robotics, IoT systems, and high-reliability embedded environments. Utilizing a 1.5 MHz switching frequency and the proprietary "Ocean Ground Strategy," ARCHON delivers up to 15W of continuous power with exceptional thermal stability and minimal EMI.
 
 ---
